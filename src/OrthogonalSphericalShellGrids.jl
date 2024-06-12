@@ -75,7 +75,8 @@ include("zipper_boundary_condition.jl")
 include("generate_tripolar_coordinates.jl")
 include("tripolar_grid.jl")
 include("grid_extensions.jl")
-include("split_explicit_free_surface.jl")
 include("with_halo.jl")
+include("distributed_tripolar_grid.jl")
+include("split_explicit_free_surface.jl")
 
 end
