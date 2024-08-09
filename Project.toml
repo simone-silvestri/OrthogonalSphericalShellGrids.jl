@@ -1,6 +1,6 @@
 name = "OrthogonalSphericalShellGrids"
 uuid = "c2be9673-fb75-4747-82dc-aa2bb9f4aed0"
-authors = ["Simone Silvestri"]
+authors = ["Climate Modeling Alliance and contributors"]
 version = "0.1.2"
 
 [deps]
